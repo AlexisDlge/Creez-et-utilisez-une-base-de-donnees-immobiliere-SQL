@@ -55,7 +55,7 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 
 Une fois cette première partie de votre travail effectuée, vous présentez votre travail à Clara qui valide votre schéma relationnel ainsi que le dictionnaire des données. 
 À ce stade du projet, vous pouvez valider avec votre mentor que votre conception est correcte avant d’aller plus loin.
-Félicitations ! Elle vous envoie un e-mail à la suite de cette réunion.
+Félicitations ! Elle vous envoie un e-mail à la suite de cette réunion :
 
     Objet: Validation du schéma relationnel et suite du projet
     De : Clara
@@ -88,7 +88,7 @@ Félicitations ! Elle vous envoie un e-mail à la suite de cette réunion.
 
 * Dictionnaire des données.
 * Schéma relationnel normalisé modifié. 
-* Fichier zip avec captures d’écran des 4 tables de la base de données opérationnelle, qui incluent le nombre de lignes chargées dans la base :
+* Fichier zip avec captures d’écran des 4 tables de la base de données opérationnelle, qui incluent le nombre de lignes chargées dans la base
   - Bien
   - Vente
   - Commune 
