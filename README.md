@@ -51,7 +51,7 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
 * [Les données](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P3/Donne%CC%81esImmo.zip)
 * [Le schéma relationnel à recréer et modifier](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P3/Sche%CC%81ma_a%CC%80_comple%CC%80ter.jpg)
 
-<img width="614" alt="IMG_EnonceProjetSQL" src="">  
+<img width="614" alt="IMG_EnonceProjetSQL" src="https://github.com/AlexisDlge/Creez-et-utilisez-une-base-de-donnees-immobiliere-SQL/assets/152527939/8fa30c1e-f3d9-4caa-9802-7328b6b8a09a">  
 
 Une fois cette première partie de votre travail effectuée, vous présentez votre travail à Clara qui valide votre schéma relationnel ainsi que le dictionnaire des données. 
 À ce stade du projet, vous pouvez valider avec votre mentor que votre conception est correcte avant d’aller plus loin.
@@ -63,12 +63,14 @@ Félicitations ! Elle vous envoie un e-mail à la suite de cette réunion.
 
     Hello,
 
-    Félicitations pour cette première étape de conception ! Comme on en a parlé en réunion ce matin, on est bons pour partir sur la modification de la base de données. Il faut maintenant que tu implémentes les tables dans la base de données en respectant ce       qu’on s’est dit ce matin (cf. compte rendu de réunion en pièce jointe).
-
-    On a échangé en interne, et on pense qu’un outil comme SQLite est pertinent pour ce type d’implémentation. Si tu es plus à l’aise, tu peux essayer d’implémenter un outil comme mySQL ou postgreSQL.
-
-    Une fois que tu auras fait ça, tu pourras faire les requêtes pour extraire les données dont nous avons besoin. Pour ça, envoie-moi un document PDF avec tous les résultats des requêtes ainsi que la requête associée. Utilise des alias pour que ça soit plus      lisible. Tu trouveras toutes les demandes auxquelles il faudra répondre dans le CR de réunion.
-
+    Félicitations pour cette première étape de conception ! Comme on en a parlé en réunion ce matin, on est bons pour partir sur la
+    modification de la base de données. Il faut maintenant que tu implémentes les tables dans la base de données en respectant ce 
+    qu’on s’est dit ce matin (cf. compte rendu de réunion en pièce jointe).
+    On a échangé en interne, et on pense qu’un outil comme SQLite est pertinent pour ce type d’implémentation. Si tu es plus à l’aise,
+    tu peux essayer d’implémenter un outil comme mySQL ou postgreSQL.
+    Une fois que tu auras fait ça, tu pourras faire les requêtes pour extraire les données dont nous avons besoin. 
+    Pour ça, envoie-moi un document PDF avec tous les résultats des requêtes ainsi que la requête associée. 
+    Utilise des alias pour que ça soit plus lisible. Tu trouveras toutes les demandes auxquelles il faudra répondre dans le CR de réunion.
     Une fois que tu auras terminé, on regardera tout ça ensemble pour voir ce que tu as réussi à tirer comme données.
 
     Bon courage !
@@ -81,3 +83,38 @@ Félicitations ! Elle vous envoie un e-mail à la suite de cette réunion.
 
 **Données :**
 [Compte-rendu de réunion](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P3/CR_re%CC%81union.pdf)
+
+<img width="614" alt="IMG_Livrables" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/86af4a1f-0feb-4235-b2ba-2f685fcaca46">
+
+* Dictionnaire des données.
+* Schéma relationnel normalisé modifié. 
+* Fichier zip avec captures d’écran des 4 tables de la base de données opérationnelle, qui incluent le nombre de lignes chargées dans la base :
+  - Bien
+  - Vente
+  - Commune 
+  - Région 
+* Document avec les requêtes et les résultats (PDF). 
+
+
+
+Pour faciliter votre passage devant le jury, déposez sur la plateforme, dans un dossier zip nommé “Titre_du_projet_nom_prénom”, tous les livrables du projet comme suit : Nom_Prénom_n° du livrable_nom du livrable_date de démarrage du projet. Cela donnera : 
+
+* Nom_Prénom_1_dictionnaire_de_donnees_mmaaaa
+* Nom_Prénom_2_schéma_mmaaaa
+* Nom_Prénom_3_bdd_mmaaaa
+* Nom_Prénom_4_requetes_mmaaaa
+
+Par exemple, le premier livrable peut être nommé comme suit : Dupont_Jean_1_dictionnaire_de_donnees_012023.
+
+<img width="614" alt="IMG_Soutenance" src="https://github.com/AlexisDlge/Detectez-des-faux-billets/assets/152527939/a1a8bf0e-898d-4fa4-808b-091d870eb595">
+
+Pendant la soutenance, l’évaluateur jouera le rôle de Clara, la CTO, à qui vous présentez votre travail. Vous pouvez créer un support de présentation mais ce n’est pas obligatoire :
+
+* Présentation (15 minutes) 
+  - Vous expliquerez la démarche de la création de la base de données.
+  - Vous présenterez la base de données avec les données importées directement dans l'outil SGBD en live (en réalisant une démonstration, sans vous appuyer sur des captures d’écran).
+  - Vous répondrez aux analyses demandées par le Directeur Général.
+* Discussion (10 minutes)
+  - L’évaluateur, jouant le rôle de Clara, vous challengera sur vos choix.
+* Débriefing (5 minutes)
+  - À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Clara pour vous permettre de débriefer ensemble. 
