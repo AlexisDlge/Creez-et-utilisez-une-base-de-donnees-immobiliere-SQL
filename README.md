@@ -45,3 +45,39 @@ Dans ce cadre, elle vous a confié la modification de la base de données permet
       Template du dictionnaire des données
       Les données
       Le schéma relationnel à recréer et modifier 
+
+**Données :**
+* [Template du dictionnaire des données](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P3/Template_dico_donne%CC%81es.xlsx)
+* [Les données](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P3/Donne%CC%81esImmo.zip)
+* [Le schéma relationnel à recréer et modifier](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P3/Sche%CC%81ma_a%CC%80_comple%CC%80ter.jpg)
+
+<img width="614" alt="IMG_EnonceProjetSQL" src="">  
+
+Une fois cette première partie de votre travail effectuée, vous présentez votre travail à Clara qui valide votre schéma relationnel ainsi que le dictionnaire des données. 
+À ce stade du projet, vous pouvez valider avec votre mentor que votre conception est correcte avant d’aller plus loin.
+Félicitations ! Elle vous envoie un e-mail à la suite de cette réunion.
+
+    Objet: Validation du schéma relationnel et suite du projet
+    De : Clara
+    À : Moi
+
+    Hello,
+
+    Félicitations pour cette première étape de conception ! Comme on en a parlé en réunion ce matin, on est bons pour partir sur la modification de la base de données. Il faut maintenant que tu implémentes les tables dans la base de données en respectant ce       qu’on s’est dit ce matin (cf. compte rendu de réunion en pièce jointe).
+
+    On a échangé en interne, et on pense qu’un outil comme SQLite est pertinent pour ce type d’implémentation. Si tu es plus à l’aise, tu peux essayer d’implémenter un outil comme mySQL ou postgreSQL.
+
+    Une fois que tu auras fait ça, tu pourras faire les requêtes pour extraire les données dont nous avons besoin. Pour ça, envoie-moi un document PDF avec tous les résultats des requêtes ainsi que la requête associée. Utilise des alias pour que ça soit plus      lisible. Tu trouveras toutes les demandes auxquelles il faudra répondre dans le CR de réunion.
+
+    Une fois que tu auras terminé, on regardera tout ça ensemble pour voir ce que tu as réussi à tirer comme données.
+
+    Bon courage !
+
+    Clara Daucourt
+    CTO
+ 
+    Pièce jointe : 
+        Compte-rendu de réunion
+
+**Données :**
+[Compte-rendu de réunion](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P3/CR_re%CC%81union.pdf)
